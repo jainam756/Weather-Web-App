@@ -71,10 +71,4 @@ Aspect-Oriented Programming (AOP) is used to measure the time taken for fetching
 
    The backend API will be available at http://localhost:8080.
 
-## Contributing
 
-Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
